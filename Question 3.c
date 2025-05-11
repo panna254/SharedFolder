@@ -33,4 +33,3 @@ int main() {
     printf("Contents of file1 appended to file2 successfully.\n");
     return 0;
 }
-
